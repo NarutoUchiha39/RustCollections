@@ -72,7 +72,7 @@ impl Tree {
 
         let root = Node{ val,left:None,right:None };
         root.into()
-    } 
+    }
 
     pub fn insert(&self,val:i32){
 
