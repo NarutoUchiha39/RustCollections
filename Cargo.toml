@@ -6,6 +6,14 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [[bin]]
+name="Trees"
+path="src/Trees/main.rs"
+
+[[bin]]
+name="Types"
+path="src/RustTypesPractise/main.rs"
+
+[[bin]]
 name="graphs"
 path="src/graphs/main.rs"
 
