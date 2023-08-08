@@ -17,4 +17,8 @@ path="src/RustTypesPractise/main.rs"
 name="graphs"
 path="src/graphs/main.rs"
 
+[[bin]]
+name="Algos"
+path="src/Algos/main.rs"
+
 [dependencies]

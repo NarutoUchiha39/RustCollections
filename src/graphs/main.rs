@@ -1,4 +1,3 @@
-mod graphs;
-pub fn main() {
+pub fn main(){
     
 }
